@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-       string [] names = new string[4];
+       string [] names = new string[4]; // assignment of string variable to 4 spaces
 
        Console.WriteLine("Type four names");
 
